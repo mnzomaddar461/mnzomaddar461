@@ -23,9 +23,3 @@ Skills: <b>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mnzomaddar461)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-naim-zomaddar-0515852b9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100090919988993)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/zmnaim//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ZmNaim2005)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mnzomaddar.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mrnaimzomaddar)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mnzomaddar461)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mnzomaddar461&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mnzomaddar461)  
-
