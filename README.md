@@ -9,11 +9,11 @@ I live in Barisal, Bangladesh, and I’m currently studying in CSE first semeste
 If you’re looking for a reliable and skilled WordPress developer to bring your vision to life, I’d love to hear from you. Let’s discuss your project and how I can help you achieve your online goals.
 
 Skills: 
-✔️ C/JS / HTML / CSS
-✔️ WordPress
-✔️ ELEMENTOR
-✔️ E-COMMERCE
-✔️ Figma
+✔️ C/JS / HTML / CSS<b>
+✔️ WordPress <b>
+✔️ ELEMENTOR <b>
+✔️ E-COMMERCE <b>
+✔️ Figma<b>
 
 - 🔭 I’m currently working on Fiverr and Freelancer 
 - 🌱 I’m currently learning Computer Science Engineering(CSE) 
