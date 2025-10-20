@@ -21,12 +21,4 @@ Skills: <b>
 - 💬 Ask me about I Love Programming 
 
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="filter: invert(1);">](https://github.com/mnzomaddar461)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" style="filter: invert(1);">](https://www.linkedin.com/in/md-naim-zomaddar-0515852b9/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="40" style="filter: invert(1);">](https://www.facebook.com/profile.php?id=100090919988993)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="40" style="filter: invert(1);">](https://www.instagram.com/zmnaim/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" style="filter: invert(1);">](https://twitter.com/ZmNaim2005)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40" style="filter: invert(1);">](https://mnzomaddar.com/)  
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="Behance" height="40" style="filter: invert(1);">](https://www.behance.net/mrnaimzomaddar)
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mnzomaddar461) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-naim-zomaddar-0515852b9//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100090919988993) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/zmnaim//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ZmNaim2005) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mnzomaddar.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mrnaimzomaddar)
